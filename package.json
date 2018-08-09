@@ -1,0 +1,45 @@
+{
+  "name": "gulp-src-combine",
+  "description": "Include source files into target by replacing text tokens in target file with sources' content",
+  "version": "1.0.0",
+  "homepage": "https://github.com/warloque/gulp-src-combine",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/warloque/gulp-src-combine.git"
+  },
+  "author": {
+    "name": "warloque",
+    "email": "solidkey@gmail.com",
+    "url": "https://github.com/warloque"
+  },
+  "main": "./index.js",
+  "keywords": [
+    "gulpplugin",
+    "file",
+    "combine",
+    "replace",
+    "token",
+    "template",
+    "source",
+    "src"
+  ],
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "vinyl": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">= 8.11.3"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
