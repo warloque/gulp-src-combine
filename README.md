@@ -54,7 +54,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 [npm-image]: https://badge.fury.io/js/gulp-src-combine.png
 
 [travis-url]: http://travis-ci.org/warloque/gulp-src-combine
-[travis-image]: https://secure.travis-ci.org/warloque/gulp-src-combine.png?branch=master
+[travis-image]: https://travis-ci.org/warloque/gulp-src-combine.svg?branch=master
 
 [depstat-url]: https://david-dm.org/warloque/gulp-src-combine
 [depstat-image]: https://david-dm.org/warloque/gulp-src-combine.png
