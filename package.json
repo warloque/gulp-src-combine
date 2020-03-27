@@ -24,11 +24,11 @@
     "src"
   ],
   "dependencies": {
-    "event-stream": "^3.3.4",
-    "vinyl": "^2.1.0"
+    "event-stream": "^4.0.1",
+    "vinyl": "^2.2.0"
   },
   "devDependencies": {
-    "mocha": "*",
+    "mocha": "^7.1.1",
     "should": "*"
   },
   "scripts": {
